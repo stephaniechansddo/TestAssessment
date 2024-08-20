@@ -1,0 +1,6 @@
+projectKey=com.sddevops:assessment
+serverUrl=http://localhost:9000
+serverVersion=9.8.0.63668
+dashboardUrl=http://localhost:9000/dashboard?id=com.sddevops%3Aassessment
+ceTaskId=AZFuzmtkmvqcwuaEmzhl
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AZFuzmtkmvqcwuaEmzhl

@@ -20,7 +20,7 @@ public class NewLibraryTest {
     public void setUp() {
         String chromeDriverPath = "C:\\Users\\StephChan\\Downloads\\chromedriver-win64\\chromedriver-win64\\chromedriver.exe";
         System.setProperty("webdriver.chrome.driver", chromeDriverPath);
-        webDriver = ew ChromeDriver();
+        webDriver = new ChromeDriver();
         webDriver.manage().timeouts().implicitlyWait(5, TimeUnit.SECONDS);
     }
 
